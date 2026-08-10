@@ -2,7 +2,7 @@
  
 > No dress code required — just good code.
  
-👋 Hi, I'm Rex.
+👋 Hi, You can call me TREX.
 
 I build software, create content,
 and help developers think like creators.
