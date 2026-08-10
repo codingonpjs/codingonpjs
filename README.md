@@ -16,3 +16,5 @@ Currently exploring
 🤖 AI Development
 ☁️ Cloud
 🚀 Building in Public
+
+Always building.
