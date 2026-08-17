@@ -1,4 +1,4 @@
-# 🐍 CODING ON PJs — Python Edition
+# 🐍 CODING ON PJs
  
 > No dress code required — just good code.
  
