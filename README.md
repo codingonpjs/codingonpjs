@@ -13,8 +13,11 @@ Currently exploring
 
 🐍 Python
 ⚡ Flask
-🤖 AI Development
+
 ☁️ Cloud
+
+🤖 AI Development
+
 🚀 Building in Public
 
 Always building.
