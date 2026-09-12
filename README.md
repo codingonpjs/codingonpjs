@@ -1,23 +1,16 @@
 # 🐍 CODING ON PJs
- 
+
 > No dress code required — just good code.
- 
-👋 Hi, You can call me TREX.
 
-I build software, create content,
-and help developers think like creators.
+👋 Hi, I'm TREX.
 
-Founder of CodingOnPJs 🇵🇭
+I build software, create content, and help developers think like creators.
 
-Currently exploring
+**Founder of Coding ON PJs 🇵🇭**
 
-🐍 Python
-⚡ Flask
+### 🚀 Currently Exploring
 
-☁️ Cloud
+🐍 **Python** · ⚡ **Flask** · 🐧 **Linux**  
+☁️ **Cloud** · 🤖 **AI Development** · 🚀 **Building in Public**
 
-🤖 AI Development
-
-🚀 Building in Public
-
-Always building.
+**Always building.**
